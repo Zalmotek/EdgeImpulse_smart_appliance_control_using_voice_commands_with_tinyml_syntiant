@@ -1,0 +1,1 @@
+# EdgeImpulse_smart_appliance_control_using_voice_commands_with_tinyml_syntiant
